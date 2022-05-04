@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">network-emsg-handler</string>
+    <string name="http400">The server cannot or will not process the request due a client error</string>
+    <string name="http401">You are not authorized to make this request</string>
+    <string name="http403">You do not have the necessary permissions to make a request</string>
+    <string name="http404">The server could not find the requested content</string>
+    <string name="http405">The method used for this request is not allowed</string>
+    <string name="http406">No content found on this path</string>
+    <string name="http407">You must authenticate before accessing this content</string>
+    <string name="http408">The response time for the request has expired</string>
+    <string name="http409">The server is currently busy</string>
+    <string name="http410">The requested content has been removed from the server</string>
+    <string name="http411">The server could not interpret the request due to invalid syntax</string>
+    <string name="http412">The server could not interpret the request due to invalid syntax</string>
+    <string name="http416">The server could not interpret the request due to invalid syntax</string>
+    <string name="http417">The server could not interpret the request due to invalid syntax</string>
+    <string name="http428">The server could not interpret the request due to invalid syntax</string>
+    <string name="http413">The request is too heavy for the server</string>
+    <string name="http414">The information sent is larger than the server is willing to accept</string>
+    <string name="http415">The format of the sent file is not supported by the server</string>
+    <string name="http418">Server configuration makes connection impossible</string>
+    <string name="http422">The server could not interpret the request due to invalid syntax</string>
+    <string name="http426">You must update the application to carry out that request</string>
+    <string name="http429">Too many requests have been sent. Please wait a few moments before trying again.</string>
+    <string name="http431">The server could not interpret the request due to invalid syntax</string>
+    <string name="http451">The requested content is not available</string>
+    <string name="http500">Internal Server Error</string>
+    <string name="http501">The server does not know how to process the request</string>
+    <string name="http502">The server has aborted the connection before completing the request</string>
+    <string name="http503">The server is currently unavailable</string>
+    <string name="http504">The server was unable to process the request before closing the connection</string>
+    <string name="http505">The version used to make the connection is not supported by the server</string>
+    <string name="http506">The server has an internal connection error</string>
+    <string name="http507">The server does not have enough available storage to handle the request.</string>
+    <string name="http508">The server detected an infinite loop so it has closed the connection</string>
+    <string name="http510">The server cannot process the request</string>
+    <string name="http511">You need to authenticate before getting access to the server</string>
+    <string name="http_default">An unexpected error has occurred</string>
+</resources>
