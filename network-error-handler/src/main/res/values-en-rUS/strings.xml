@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">network-emsg-handler</string>
+    <string name="network_emsg_library_name">network-emsg-handler</string>
     <string name="http400">The server cannot or will not process the request due a client error</string>
     <string name="http401">You are not authorized to make this request</string>
     <string name="http403">You do not have the necessary permissions to make a request</string>

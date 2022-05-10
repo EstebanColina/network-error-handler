@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">network-emsg-handler</string>
+    <string name="network_emsg_library_name">network-emsg-handler</string>
     <string name="http400">El servidor no pudo interpretar la solicitud debido a una sintaxis inválida</string>
     <string name="http403">No posee los permisos necesarios realizar esa petición</string>
     <string name="http405">El método utilizado para esta solicitud no está permitido</string>
